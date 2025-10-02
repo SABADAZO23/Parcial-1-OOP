@@ -12,7 +12,7 @@ mostrar libros
 mostrar usuarios
 <img width="495" height="226" alt="image" src="https://github.com/user-attachments/assets/809680d1-c904-4268-8c6e-cfc71493b0e3" />
 
-prestar libros(Hubo un error pero y se cerro pero si funciona solo que los datos no se guardan y por eso aparece asi)
+prestar libros(Hubo un error imprevisto  y se cerro pero si funciona solo que los datos no se guardan y por eso aparece de esa forma )
 <img width="460" height="217" alt="image" src="https://github.com/user-attachments/assets/04cb74ea-7781-4602-ae12-d777809fc8aa" />
 
 Devolver libros (igual que arriba hubo un error y como no se guardan los datos pues aparece que no se puede)
